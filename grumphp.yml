@@ -23,12 +23,9 @@ grumphp:
     environment:
         files: []
         variables: {}
-        paths:
-            - bin/
+        paths: []
     tasks:
-        php_cs_fixer:
-            config: .php-cs-fixer.dist.php
-        phpstan:
-            configuration: phpstan.dist.neon
+        phpstan: ~
+        phpcsfixer: ~
     testsuites: []
     extensions: []
