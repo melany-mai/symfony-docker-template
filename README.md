@@ -1,6 +1,12 @@
 # 🐘 Symfony Docker Template
 
-Personal Symfony 8 + FrankenPHP + PostgreSQL + Docker template, ready to use.
+![PHP](https://img.shields.io/badge/PHP-8.5-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-8-000000?logo=symfony&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
+![FrankenPHP](https://img.shields.io/badge/FrankenPHP-1-9B59B6?logo=php&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-level%206-8892BF)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Stack
 
